@@ -25,9 +25,9 @@ Iris Matcher (Python Version on Linux) based on the VeriEye SDK by  Neurotechnol
  
 
 # How to Use
-- Step 1: Create a CSV file with three columns. The first two are for the image pairs, and the third one is whether a match or non-match by {0,1}. with column names `iris1`, `iris2`, and `label.`
-- Step 2: Run the script.
+- **Step 1:** Create a CSV file with three columns. The first two are for the image pairs, and the third one is whether a match or non-match by {0,1}. with column names `iris1`, `iris2`, and `label.`
+- **Step 2:** Run the script.
 
-- Note: The script is written in such a way that, for each iris, a subject's template is created, and then it is stored. If that subject's template comes in a new test pair, the old one is retrieved. Also, all the extracted templates are stored by default.
+- **Note:** The script is written in such a way that, for each iris, a subject's template is created, and then it is stored. If that subject's template comes in a new test pair, the old one is retrieved. Also, all the extracted templates are stored by default.
 - 
 
