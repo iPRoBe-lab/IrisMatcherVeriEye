@@ -1,5 +1,10 @@
 # IrisMatcherVeriEye
-Iris Matcher (Python Version) based on the VeriEye SDK by  Neurotechnology
+Iris Matcher (Python Version on Linux) based on the VeriEye SDK by  Neurotechnology
+
+
+# System Requirements
+- Ubuntu Linux OS (Tested on v22.04)
+- Anaconda Python Environment Manager
 
 # License Activation (for Python SDK)
 1. To run VeriEye in Python, you must run the license server. Otherwise, most of the features are unusable.
