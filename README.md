@@ -16,7 +16,6 @@ Iris Matcher (Python Version) based on the VeriEye SDK by  Neurotechnology
  1. Create a virtual environment in Anaconda by running `conda create --name VeriEye python=3.10` and activate the environment with `conda activate VeriEye`
  2. Download the VeriEye-SDK-Python from the [Official VeriEye Download Page](https://download.neurotechnology.com/Neurotec_Biometric_13_1_Python_Linux_2024-02-13.zip)
  3. Unzip the `Neurotec_Biometric_13_1_Python_Linux_2024-02-13.zip` folder and install the precompiled wheel file `pynsdk-13.1.0-py3-none-any.whl` using the command `pip install pynsdk-13.1.0-py3-none-any.whl` in your VeriEye environment.
- 4. 
  
 
 ## How to Use
