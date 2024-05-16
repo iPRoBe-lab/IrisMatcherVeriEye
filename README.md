@@ -43,5 +43,6 @@ python iris_matcher.py --input_file sample_iris_db/iris_matching_task_dataframe.
 
 
 - **Note:** The script is written in such a way that, for each iris, a subject's template is created, and then it is stored. If that subject's template comes in a new test pair, the old one is retrieved. Also, all the extracted templates are stored by default.
-- 
+
+
 
