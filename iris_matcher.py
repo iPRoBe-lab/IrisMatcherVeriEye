@@ -123,6 +123,7 @@ def main(args):
 
     # List all the preprocessed iris images
     all_subjects = []
+    os.makedirs(osp.join(args.dataset_dir, "templates"), exists_ok = True)
     all_subjects = os.listdir(osp.join(args.dataset_dir, "templates"))
 
     sub = create_subject_with_iris(all_iris_paths[0])
