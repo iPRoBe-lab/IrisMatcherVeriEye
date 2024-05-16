@@ -36,9 +36,9 @@ in your VeriEye environment.
 - **Step 1:** Create a CSV file with three columns. The first two are for the image pairs, and the third one is whether a match or non-match by {0,1}. with column names `iris1`, `iris2`, and `label.`
 - **Step 2:** Run the script with the following command.
 ```bash
-python iris_matcher.py --input_file iris_matching_task_dataframe.csv \
-    --dataset_dir sample_iris_database \
-    --output_file iris_matching_task_output.csv
+python iris_matcher.py --input_file sample_iris_db/iris_matching_task_dataframe.csv \
+    --dataset_dir sample_iris_db \
+    --output_file sample_iris_db/iris_matching_task_output.csv
 ```
 
 
