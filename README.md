@@ -37,8 +37,8 @@ in your VeriEye environment.
 - **Step 2:** Run the script with the following command.
 ```bash
 python iris_matcher.py --input_file sample_iris_db/iris_matching_task_dataframe.csv \
-    --dataset_dir sample_iris_db \
-    --output_file sample_iris_db/iris_matching_task_output.csv
+                       --dataset_dir sample_iris_db \
+                       --output_file sample_iris_db/iris_matching_task_output.csv
 ```
 
 
