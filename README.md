@@ -3,7 +3,7 @@ Iris Matcher (Python Version on Linux) based on the VeriEye SDK by  Neurotechnol
 
 
 # System Requirements
-- Ubuntu Linux OS (Tested on v22.04)
+- Ubuntu Linux OS (Tested on Ubuntu LTS 22.04)
 - Anaconda Python Environment Manager
 
 # License Activation (for Python SDK)
